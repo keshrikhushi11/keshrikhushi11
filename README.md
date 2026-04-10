@@ -52,9 +52,15 @@ Currently exploring **Full-Stack Development** and strengthening my skills in **
 
 - React.js  
 - Backend Development (Node.js)  
-- Data Structures & Algorithms  
+- Data Structures & Algorithms
+## 📊 GitHub Stats
+
+
+![Khushi's GitHub stats](https://github-readme-stats.vercel.app/api?username=keshrikhushi11&show_icons=true&theme=tokyonight)
 
 ---
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=keshrikhushi11&theme=tokyonight)
 
 ## 📫 Connect with Me
 
