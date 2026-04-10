@@ -56,8 +56,6 @@ Currently exploring **Full-Stack Development** and strengthening my skills in **
 
 ---
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=keshrikhushi11&theme=tokyonight)
-
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/khushikumari06)
