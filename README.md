@@ -12,7 +12,7 @@ Currently exploring **Full-Stack Development** and strengthening my skills in **
 
 ---
 
-##  Tech Stack
+## Tech Stack
 
 - **Languages:** Java, Python, C, JavaScript  
 - **Frontend:** HTML5, CSS3, React (learning)  
