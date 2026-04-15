@@ -5,7 +5,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I'm an ECE student passionate about building real-world applications and solving problems using technology.  
 Currently exploring **Full-Stack Development** and strengthening my skills in **Java, JavaScript and Python**.
@@ -21,9 +21,9 @@ Currently exploring **Full-Stack Development** and strengthening my skills in **
 
 ---
 
-## 💻 Projects
+##  Projects
 
-### 🌦 Weather App (Python)
+###  Weather App (Python)
 - Built a CLI-based weather application using **Python & OpenWeather API**
 - Fetches real-time weather data (temperature, humidity, wind speed)
 - Implemented error handling for invalid inputs  
@@ -32,7 +32,7 @@ Currently exploring **Full-Stack Development** and strengthening my skills in **
 
 ---
 
-### ✅ To-Do List Web App
+###  To-Do List Web App
 - Developed using **HTML, CSS, JavaScript**
 - Features: Add, delete tasks dynamically using DOM manipulation  
 - Clean and responsive UI  
@@ -41,7 +41,7 @@ Currently exploring **Full-Stack Development** and strengthening my skills in **
 
 ---
 
-## 📚 Certifications
+##  Certifications
 
 - JPMorgan Chase Software Engineering Virtual Experience (Forage)
 
