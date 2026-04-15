@@ -47,7 +47,7 @@ Currently exploring **Full-Stack Development** and strengthening my skills in **
 
 ---
 
-## 🌱 Currently Learning
+##  Currently Learning
 
 - React.js  
 - Backend Development (Node.js)  
@@ -55,7 +55,7 @@ Currently exploring **Full-Stack Development** and strengthening my skills in **
 
 ---
 
-## 📫 Connect with Me
+##  Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/khushikumari06)
 
