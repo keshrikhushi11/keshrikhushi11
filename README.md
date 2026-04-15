@@ -1,23 +1,22 @@
-# 👋 Hi, I'm Khushi Kumari
+# Hi, I'm **Khushi Kumari**
 
-🎓 B.E. Electronics & Communication Engineering @ BIET Davangere (2023–2027)  
-💻 Aspiring Software Engineer | Full-Stack Developer  
-📍 Davangere, Karnataka, India  
+ B.E. Electronics & Communication Engineering @ BIET Davangere (2023–2027)  
+ Aspiring Software Engineer | Full-Stack Developer  
 
 ---
 
 ## 🚀 About Me
 
 I'm an ECE student passionate about building real-world applications and solving problems using technology.  
-Currently exploring **Full-Stack Development** and strengthening my skills in **Python, Java, and JavaScript**.
+Currently exploring **Full-Stack Development** and strengthening my skills in **Java, JavaScript and Python**.
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 - **Languages:** Java, Python, C, JavaScript  
 - **Frontend:** HTML5, CSS3, React (learning)  
-- **Backend:** Node.js, Express (learning), Spring Boot basics  
+- **Backend:** Spring Boot basics  
 - **Tools:** Git, GitHub, VS Code, MATLAB  
 
 ---
