@@ -23,8 +23,13 @@ Currently exploring **Full-Stack Development** and strengthening my skills in **
 
 ##  Projects
 
-### Scientific-Calculator 
--Developed using 
+### Scientific Calculator Web App :
+
+- A modern and responsive **Scientific Calculator** built using HTML, CSS, and JavaScript.  
+- It supports basic operations, scientific functions, and also maintains a persistent calculation history using localStorage.      
+- I converted the history array into a string using `JSON.stringify()` before saving it,
+  and while retrieving, I converted it back into an array using `JSON.parse()`.
+
 
 
 🔗 [View Project](https://github.com/keshrikhushi11/Calculator)
