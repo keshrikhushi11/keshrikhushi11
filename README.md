@@ -23,21 +23,27 @@ Currently exploring **Full-Stack Development** and strengthening my skills in **
 
 ##  Projects
 
-###  Weather App (Python)
-- Built a CLI-based weather application using **Python & OpenWeather API**
-- Fetches real-time weather data (temperature, humidity, wind speed)
-- Implemented error handling for invalid inputs  
+### Scientific-Calculator 
+-Developed using 
 
-🔗 [View Project](https://github.com/keshrikhushi11/weather-app-python)
+
+🔗 [View Project](https://github.com/keshrikhushi11/Calculator)
 
 ---
-
 ###  To-Do List Web App
 - Developed using **HTML, CSS, JavaScript**
 - Features: Add, delete tasks dynamically using DOM manipulation  
 - Clean and responsive UI  
 
 🔗 [View Project](https://github.com/keshrikhushi11/todo-app)
+
+---
+###  Weather App (Python)
+- Built a CLI-based weather application using **Python & OpenWeather API**
+- Fetches real-time weather data (temperature, humidity, wind speed)
+- Implemented error handling for invalid inputs  
+
+🔗 [View Project](https://github.com/keshrikhushi11/weather-app-python)
 
 ---
 
