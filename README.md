@@ -35,6 +35,16 @@ Currently exploring **Full-Stack Development** and strengthening my skills in **
 🔗 [View Project](https://github.com/keshrikhushi11/Calculator)
 
 ---
+
+### Trafic Light Controller
+- Smoothly cycles through normal operations (Green → Yellow → Red).
+- Instantly triggers green signals for emergency vehicles (e.g., ambulances, fire trucks), forcing opposing roads to a safe red signal state.
+- Fully synchronous architecture ideal for modern VLSI implementation.
+
+  
+🔗 [View Project]()
+---
+
 ###  To-Do List Web App
 - Developed using **HTML, CSS, JavaScript**
 - Features: Add, delete tasks dynamically using DOM manipulation  
