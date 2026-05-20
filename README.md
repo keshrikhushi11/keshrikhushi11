@@ -42,7 +42,7 @@ Currently exploring **Full-Stack Development** and strengthening my skills in **
 - Fully synchronous architecture ideal for modern VLSI implementation.
 
   
-🔗 [View Project](https://github.com/keshrikhushi11/Calculator)
+🔗 [View Project](https://github.com/keshrikhushi11/Traffic-Light-Controller-Verilog.git)
 
 ---
 
