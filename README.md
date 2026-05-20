@@ -1,7 +1,7 @@
 # Hi, I'm **Khushi Kumari**
 
  B.E. Electronics & Communication Engineering @ BIET Davangere (2023–2027)  
- Aspiring Software Engineer |   
+ Aspiring Software Engineer. 
 
 ---
 
