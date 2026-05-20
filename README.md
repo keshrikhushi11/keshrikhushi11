@@ -42,7 +42,8 @@ Currently exploring **Full-Stack Development** and strengthening my skills in **
 - Fully synchronous architecture ideal for modern VLSI implementation.
 
   
-🔗 [View Project]()
+🔗 [View Project](https://github.com/keshrikhushi11/Calculator)
+
 ---
 
 ###  To-Do List Web App
