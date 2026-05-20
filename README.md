@@ -1,14 +1,14 @@
 # Hi, I'm **Khushi Kumari**
 
  B.E. Electronics & Communication Engineering @ BIET Davangere (2023–2027)  
- Aspiring Software Engineer | Full-Stack Developer  
+ Aspiring Software Engineer |   
 
 ---
 
 ## About Me
 
 I'm an ECE student passionate about building real-world applications and solving problems using technology.  
-Currently exploring **Full-Stack Development** and strengthening my skills in **Java, JavaScript and Python**.
+Currently exploring **Full-Stack Development** and **UI/Frontend developer**, strengthening my skills in **Java, JavaScript and SAPUI5**.
 
 ---
 
