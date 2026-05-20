@@ -14,10 +14,10 @@ Currently exploring **Full-Stack Development** and strengthening my skills in **
 
 ## Tech Stack
 
-- **Languages:** Java, Python, C, JavaScript  
-- **Frontend:** HTML5, CSS3, React (learning)  
-- **Backend:** Spring Boot basics  
-- **Tools:** Git, GitHub, VS Code, MATLAB  
+- **Languages:** HTML, CSS, JavaScript, SAPUI5  
+- **Currently Learning:** Java, SQL  
+- **CS Fundamentals:** Data Structure & Algorithms, Operating System, DBMS 
+- **Tools:** Git, GitHub, VS Code, MATLAB, EDA Playground 
 
 ---
 
