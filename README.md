@@ -21,7 +21,7 @@ Currently exploring **Full-Stack Development** and **UI/Frontend developer**, st
 
 ---
 
-##  Projects
+###  Projects :
 
 ### Scientific Calculator Web App :
 
